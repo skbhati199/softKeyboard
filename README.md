@@ -1,3 +1,3 @@
-# XSoftTechProject
+# XSofTechProject
 XSoftech Solution
 softkeyboard 
